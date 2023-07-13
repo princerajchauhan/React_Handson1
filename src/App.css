@@ -1,0 +1,8 @@
+*{
+  margin: 0;
+}
+body{
+  height: 100vh;
+  background: linear-gradient( rgba(121,202,215,1) 0%, rgba(239,145,145,1) 54%, rgba(121,202,215,1) 100%);
+  background-repeat: no-repeat;
+}
