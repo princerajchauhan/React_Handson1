@@ -11,7 +11,9 @@ class ClassComponent extends Component {
         fontSize: "1.2vw",
         border: "2px solid black",
         textAlign: "center",
-        paddingBottom: "70px"   
+        paddingBottom: "70px",
+        position: "absolute",
+        right: "7%"
     }
     render() {
         return (

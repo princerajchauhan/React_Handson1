@@ -47,7 +47,7 @@ class App extends Component {
           <button style={this.myStyle} onClick={this.classBtnClick}>To See Styling in Class Component</button>
         </div>
 
-        <div style={{ display: "flex", justifyContent: "space-evenly", marginTop: "100px" }}>
+        <div style={{marginTop: "100px" }}>
 
           {/* <div style={{display: isFun ?"block":"none"}}>
           <FunctionalComp />

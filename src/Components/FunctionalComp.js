@@ -11,7 +11,9 @@ const FunctionalComp = () =>{
         fontSize: "1.2vw",
         border: "2px solid black",
         textAlign: "center",
-        paddingBottom: "70px"     
+        paddingBottom: "70px",
+        position: "absolute",
+        left: "7%"
     }
     return(
         <div style={myStyle}>
